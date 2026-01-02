@@ -1,0 +1,5 @@
+{
+  "name": "SuperMarket Genius",
+  "description": "A dual-interface supermarket application featuring a customer shopping experience with AI assistance and a comprehensive admin dashboard for real-time monitoring.",
+  "requestFramePermissions": []
+}
